@@ -1,0 +1,1050 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">vedio.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">vedio</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Qt in PATH Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Qt in PATH Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Qt in PATH Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-build-qt45 Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Debug</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-build-qt45 Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Release</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GM58fsXHCD,guid=65f85b795c3f432e598e05e5560dd40c</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3213</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-GprbPc/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3216,unix/unix:/tmp/.ICE-unix/3216</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-GprbPc/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-0irHBs/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1443746827.907313-247315640</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/opt/EmbedSky/pro/vedio/vedio/vedio.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GM58fsXHCD,guid=65f85b795c3f432e598e05e5560dd40c</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3213</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-GprbPc/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3216,unix/unix:/tmp/.ICE-unix/3216</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-GprbPc/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-0irHBs/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1443746827.907313-247315640</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GM58fsXHCD,guid=65f85b795c3f432e598e05e5560dd40c</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3213</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-GprbPc/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3216,unix/unix:/tmp/.ICE-unix/3216</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-GprbPc/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-0irHBs/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1443746827.907313-247315640</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-CehYIHuaa5,guid=41a79c17ad7040d77badd5ec56e3e345</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3194</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5gLkiI/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3197,unix/unix:/tmp/.ICE-unix/3197</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5gLkiI/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-JsMSfe/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1457775429.479629-1912969870</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/opt/EmbedSky/pro/vedio/vedio/vedio.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-CehYIHuaa5,guid=41a79c17ad7040d77badd5ec56e3e345</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3194</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5gLkiI/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3197,unix/unix:/tmp/.ICE-unix/3197</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5gLkiI/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-JsMSfe/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1457775429.479629-1912969870</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/opt/EmbedSky/pro/vedio/vedio/vedio.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/opt/EmbedSky/pro/vedio/vedio/vedio.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/opt/EmbedSky/qt-4.5/__install/arm/mkspecs/qws/linux-arm-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/opt/EmbedSky/qt-4.5/__install/arm/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/opt/EmbedSky/pro/vedio/vedio/vedio.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/opt/EmbedSky/qt-4.5/__install/arm/mkspecs/qws/linux-arm-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/opt/EmbedSky/qt-4.5/__install/arm/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <valuelist key="qmakeArgs" type="QVariantList"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build-qt45 Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build-qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-u4sNTqcX6o,guid=654e1b851b380dac3e14d9e456a4b6f8</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=3181</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-0n8I0p/socket</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/root/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=cwl</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-root</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/opt/EmbedSky/4.3.3/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/root/bin</value>
+    <value type="QString">PWD=/opt/qtcreator-1.3.0/bin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=scim-bridge</value>
+    <value type="QString">QT_PLUGIN_PATH=/usr/lib/kde4/plugins</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3184,unix/unix:/tmp/.ICE-unix/3184</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-0n8I0p/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-RMvwNq/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=0d80375c3f16758d9cae73c35294df62-1453635320.227872-1520993630</value>
+    <value type="QString">XMODIFIERS=@im=imsettings</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/EmbedSky/pro/vedio/vedio</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">build-qt45 Debug</value>
+   <value type="QString">build-qt45 Release</value>
+   <value type="QString">Qt in PATH Debug</value>
+   <value type="QString">Qt in PATH Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">UTF-8</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
